@@ -4,9 +4,9 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Put Spotify api data here
-SPOTI_CLIENT_ID = "7d9c8c83a0954453a0194a2882cbb249"
-SPOTI_CLIENT_SECRET = "e6e9cf44764b487e9c4936fdae41d840"
-SPOTI_REDIRECT_URI = "http://example.com"
+SPOTI_CLIENT_ID = ""
+SPOTI_CLIENT_SECRET = ""
+SPOTI_REDIRECT_URI = ""
 
 user_input = input("Enter a date in the format YYYY-MM-DD: ")
 url = f"https://www.billboard.com/charts/hot-100/{user_input}"
