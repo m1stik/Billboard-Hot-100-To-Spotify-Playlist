@@ -13,9 +13,9 @@
 
 ### Libraries
 - requests (no need to install)
-- bs4 (needed to install)
-- spotipy (needed to isntall)
+- bs4 (needed to install) - pip install bs4
+- spotipy (needed to install) - pip install spotipy
 
 ### Notes
-- The app might not add exactly 100 tracks to your playlist because of not availability on Spotify or weird name on the Billboard website
+- The app might not add exactly 100 tracks to your playlist because of unavailability on Spotify or weird name on the Billboard website
 - Available data is only from August 4, 1958
